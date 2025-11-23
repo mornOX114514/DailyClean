@@ -1,0 +1,14 @@
+{
+  "order": 20,
+  "enabled": true,
+  "path": "D:\BAAH1.9.0\BAAH.exe",
+  "type": "ExeWithArgument",
+  "delayAfterStart": 20000,
+  "processNameToKill": "",
+  "killAfterSeconds": 0,
+  "name": "BAAH_Config",
+  "description": "Daily Ba",
+  "arguments": [
+    "Daily.json"
+  ]
+}

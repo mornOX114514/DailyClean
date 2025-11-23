@@ -1,0 +1,13 @@
+{
+  "order": 40,
+  "enabled": true,
+  "path": "D:\genshin_MAA\Daily_GI.bat",
+  "type": "Bat",
+  "delayAfterStart": 2500,
+  "processNameToKill": "",
+  "killAfterSeconds": 0,
+  "name": "Genshin_Config",
+  "description": "Daily Genshin Impact",
+  "arguments": [
+  ]
+}

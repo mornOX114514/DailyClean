@@ -1,0 +1,13 @@
+{
+  "order": 30,
+  "enabled": true,
+  "path": "D:\starrailMAA\March7thAssistant_v2.7.0_full\March7th Assistant.exe",
+  "type": "Exe",
+  "delayAfterStart": 540000,
+  "processNameToKill": "",
+  "killAfterSeconds": 0,
+  "name": "StarRail_Config",
+  "description": "Daily Starrail",
+  "arguments": [
+  ]
+}
